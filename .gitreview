@@ -1,0 +1,5 @@
+[gerrit]
+host=review.beachos.org
+port=29418
+project=BeachOS/device_qcom_sepolicy_vndr-legacy-um
+defaultbranch=android13
